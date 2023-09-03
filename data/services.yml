@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Menawarkan Solusi Teknologi yang Inspiratif
+services:
+  - icon: ti-settings
+    title: Passion
+    description: Dengan semangat anak muda, kami menjadikan teknologi sebagai panggilan hidup, mendorong kami untuk memberikan solusi luar biasa kepada klien.
+
+  - icon: ti-check-box
+    title: Purpose
+    description: Misi kami adalah menggabungkan keahlian profesional kami untuk menciptakan dampak positif melalui inovasi teknologi yang melayani kebutuhan dunia modern.
+
+  - icon: ti-key
+    title: Team
+    description: Misi kami adalah menggabungkan keahlian profesional kami untuk menciptakan dampak positif melalui inovasi teknologi yang melayani kebutuhan dunia modern.

@@ -1,0 +1,26 @@
+---
+enable: true
+
+title: Pertanyaan yang Sering Diajukan
+description: Berikut adalah beberapa pertanyaan umum yang sering diajukan tentang layanan kami.
+faqItem:
+  - question: Apa yang membedakan layanan Anda?
+    answer: Layanan kami didukung oleh semangat inovasi, tujuan untuk menciptakan dampak positif, dan tim kami memiliki berbagai keahlian dalam UI/UX, pengembangan web, mobile, dan manajemen server untuk memberikan solusi terbaik untuk anda.
+    dataTarget: One
+    show: show
+  - question: Bagaimana cara untuk memulai kerjasama?
+    answer: Untuk memulai kerjasama, Anda dapat menghubungi kami melalui formulir whatsapp yang sudah tersedia atau mengirimkan email kepada tim kami. Kami akan merespons segera dan berdiskusi lebih lanjut tentang kebutuhan Anda untuk menyusun solusi yang tepat.
+    dataTarget: Two
+    show:
+  - question: Berapa lama waktu yang dibutuhkan untuk mengembangkan proyek?
+    answer: Waktu pengembangan proyek bervariasi tergantung pada skala dan kompleksitasnya. Kami akan bekerja sama dengan Anda untuk merencanakan jadwal yang realistis dan memberikan estimasi waktu yang akurat setelah kami memahami persyaratan proyek dengan lebih detail.
+    dataTarget: Three
+    show:
+  - question: Bagaimana dengan dukungan setelah proyek selesai?
+    answer: Kami menyediakan dukungan pascapenyelesaian proyek untuk memastikan bahwa solusi teknologi yang kami berikan berjalan dengan baik. Kami akan tetap berkomunikasi dengan Anda untuk menjawab pertanyaan, menangani perbaikan, dan memberikan layanan purna jual yang memuaskan.
+    dataTarget: Four
+    show:
+  - question: Apakah Anda melayani proyek berskala kecil?
+    answer: Ya, kami melayani berbagai skala proyek, termasuk proyek berskala kecil. Kami percaya setiap proyek memiliki nilai dan potensi yang sama untuk menciptakan dampak positif. Kami akan memberikan dedikasi dan perhatian yang sama, tidak peduli seberapa besar atau kecilnya proyek tersebut.
+    dataTarget: Five
+    show:

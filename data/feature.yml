@@ -1,0 +1,15 @@
+---
+enable: true
+title: Solusi Digital Terbaik untuk Anda
+description: Kami adalah tim profesional yang berdedikasi dalam merancang solusi digital terbaik, mulai dari pengembangan website hingga sistem informasi canggih. Dengan pengalaman luas dalam bidang UI/UX, pengembangan aplikasi, dan pengelolaan server, kami menggabungkan inovasi dengan fungsionalitas yang kuat untuk memberikan pengalaman luar biasa kepada pengguna.
+description2: Tak peduli seberapa besar proyek Anda, kami siap membantu anda mengubah ide menjadi teknologi yang mengagumkan.
+buttonText: Whastapp
+Title2nd: Keahlian Kami
+description2nd: Dengan fokus pada UI/UX yang menarik, kami merancang antarmuka yang mengundang interaksi dan memastikan pengalaman pengguna yang lancar. Kami juga ahli dalam pengembangan website yang responsif dan aplikasi mobile yang intuitif. Selain itu, kami memiliki keahlian dalam mengelola server untuk memastikan kinerja yang optimal dan keamanan data yang terjamin.
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: Merancang antarmuka yang menarik dan responsif.
+  - text: Mengembangkan aplikasi mobile dengan user experience yang intuitif.
+  - text: Mengelola server untuk kinerja dan keamanan yang optimal.
+

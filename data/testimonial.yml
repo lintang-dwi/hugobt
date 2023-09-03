@@ -1,0 +1,27 @@
+---
+enable: true
+
+title: Testimonial Pelanggan
+description: Berikut adalah beberapa testimonial dari klien kami tentang pelayanan kami
+
+comments:
+
+  - text: Pelayanan yang sangat memuaskan. Mereka membantu saya mengatasi masalah teknis dengan cepat dan efisien. Saya sangat merekomendasikan layanan mereka.
+    name: Anonim Indonesia
+    designation: Guru di Blitar
+    image: images/client/client-2.png
+
+  - text: Sangat senang bekerja sama dengan tim ini. Mereka mendengarkan dengan baik dan mengerti kebutuhan kami. Hasil kerjanya sangat memuaskan. Terima kasih banyak!
+    name: Anonim
+    designation: Pelanggan Setia
+    image: images/client/client-1.png
+
+  - text: Pelayanan mereka luar biasa! Mereka selalu ada ketika kami membutuhkan bantuan. Teknologi mereka membantu bisnis kami tumbuh dengan cepat. Terima kasih, tim!
+    name: Anonim Pengusaha
+    designation: Pengusaha Sukses
+    image: images/client/client-3.png
+
+  - text: Saya sangat puas dengan layanan mereka. Mereka sangat profesional dalam menjalankan proyek kami. Hasilnya sangat bagus, dan mereka selalu responsif terhadap pertanyaan kami.
+    name: Anonim Klien
+    designation: Klien Zona Baru
+    image: images/client/client-1.png

@@ -1,0 +1,74 @@
+# MAIN base
+baseURL = "https://apsho-hugo.netlify.app/"
+languageCode = "en-us"
+title = "Banitech"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Services"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "/blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Latest Article"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "Jalan Citarik No.16, Bendo, Kota Blitar, 66116, Jawa Timur , Indonesia"
+email = "banitech.group@gmail.com"
+phone = "+6287854111445"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/banitech.id"
+instagram = "https://www.instagram.com/banitech.id/"
+linkedin = "https://www.linkedin.com/company/bani-tech/" 
+
+[params]
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/zWMBVeW"
+googleAnalytics = "UA-175025671-2"
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://www.instagram.com/banitech.id/\" target=\"_blank\">Banitech.id </a> {year}"
+#contact
+email = "banitech.group@gmail.com"
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
